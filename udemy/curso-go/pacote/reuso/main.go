@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"lucasrochagit/go/pkg/mod/github.com/lucasrochagit/area"
+	"lucasrochagit/go/pkg/mod/github.com/lucasrochagit/go-utils/area"
 )
 
 func main() {
