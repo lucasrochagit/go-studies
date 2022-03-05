@@ -1,0 +1,4 @@
+go test -cover -> executa testes e exibe cobertura
+go test -coverprofile=resultado.out -> executa testes e gera arquivo
+    go tool cover -func=resultado.out -> exibe detalhes do resultado.out
+    go tool cover -html=resultado.out -> exibe no html o que foi coberto no código
