@@ -5,7 +5,7 @@ Repositório que contém todos os projetos relacionados aos meus estudos em Gola
 
 | Plataforma | Nome do Curso | Link para o curso | Branch Atual | Status |
 | ---------- | ------------- | ----------------- | ------------ | ------ |
-| Udemy | Go (Golang): Explorando a linguagem do Google | https://www.udemy.com/course/curso-go | `feat/curso-go` | Em andamento |
+| Udemy | Go (Golang): Explorando a linguagem do Google | https://www.udemy.com/course/curso-go | `main` | Finalizado |
 
 
 
